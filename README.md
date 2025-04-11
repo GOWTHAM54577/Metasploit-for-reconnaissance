@@ -1,4 +1,3 @@
-![430796944-680c8dbd-88d6-4bf5-aad3-dff3709d043b](https://github.com/user-attachments/assets/9f342fca-1286-4930-b22f-bbb0523a8924)# Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
 
@@ -46,6 +45,8 @@ Execute the following command to generate a Windows Meterpreter reverse shell pa
 ### Step4:Set Up an HTTP Server
 Once the payload file is created, navigate to the home directory.
 Right-click and select **"open terminal here"**.
+![image](https://github.com/user-attachments/assets/42e1fa87-7501-47ec-ba81-4c4b7e3a263d)
+
 
 
 
